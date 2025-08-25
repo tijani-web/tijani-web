@@ -19,9 +19,9 @@ A developer challenge platform that helps programmers sharpen their skills throu
 
 ## 📊 GitHub Stats
 
-![Basit's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Basit's GitHub stats](https://github-readme-stats.vercel.app/api?username=tijani-web&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tijani-web&layout=compact&theme=radical)
 
 ## 🧠 Development Philosophy
 
@@ -37,9 +37,9 @@ I'm constantly exploring new technologies and methodologies to improve my craft.
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basit-tijani-4362b3320/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BDwxG1JF3Q9GPLZQvHefV8w%3D%3D)
+[![Instagram](https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tijanidev?igsh=MWVpczc4eTBpM2xlYQ==)
 
 ---
 
-⭐️ From [BasitTiani](https://github.com/yourusername)
+⭐️ From [Basit Tiani](https://github.com/tijani-web)

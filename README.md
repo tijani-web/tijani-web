@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Basit Tiani!
+# 👋 Hello, I'm Basit Tijani!
 
 🚀 **Software Engineering Student** @ Aptech Institution  
 💻 Passionate about creating clean, responsive, and user-focused applications  

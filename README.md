@@ -5,13 +5,6 @@ I enjoy turning complex ideas into reliable, production-ready systems.
 
 ---
 
-## 🚀 What I Work On
-- Full-stack web applications with real users and real constraints  
-- API-driven systems, dashboards, and interactive platforms  
-- Clean, maintainable code with long-term scalability in mind  
-
----
-
 ## 🛠 Tech Stack
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -28,7 +21,7 @@ I enjoy turning complex ideas into reliable, production-ready systems.
 - **FluxAPI** – Web API builder with environments, mock servers, webhooks, and execution pipelines  
 - **FlowPitch** – Community roadmap and decision-tracking platform for startups and teams  
 - **Nexora** – AI-enhanced knowledge sharing and discussion platform  
-- **Xylorix** *(Ongoing Research)* – Experimental system exploring interactive simulations and structured workflows  
+- **Zylorix** *(Ongoing Research)* – Experimental system exploring interactive simulations and structured workflows  
 
 Each project is designed, built, and deployed with real-world use in mind.
 

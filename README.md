@@ -1,51 +1,33 @@
-# 👋 Hi, I’m Basit Tijani
+# Basit Tijani
 
-I’m a **Software Engineer** focused on building scalable, user-centric web platforms with clean architecture, strong fundamentals, and thoughtful UX.  
-I enjoy turning complex ideas into reliable, production-ready systems.
+Backend engineer focused on distributed systems and AI infrastructure.
 
----
-
-## 🛠 Tech Stack
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=api&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+I build things that handle real load — event pipelines, LLM gateways, enforcement engines. The problems I find interesting are usually somewhere between concurrency, failure modes, and systems that have to be correct under pressure.
 
 ---
 
-## 📌 Notable Projects
-- **FluxAPI** – Web API builder with environments, mock servers, webhooks, and execution pipelines  
-- **FlowPitch** – Community roadmap and decision-tracking platform for startups and teams  
-- **Nexora** – AI-enhanced knowledge sharing and discussion platform  
-- **Zylorix** *(Ongoing Research)* – Experimental system exploring interactive simulations and structured workflows  
+### Work
 
-Each project is designed, built, and deployed with real-world use in mind.
+**[ARGUS](https://github.com/tijani-web/argus)** — Real-time behavioral analytics platform. Spring WebFlux + Kafka + TimescaleDB. 8,000–15,000 events/sec on a single VM. Reactive ingestion, Kafka Streams processing, Redis live counters, DLQ poison pill protection.
 
----
+**[Sentinel-AI](https://github.com/tijani-web/sentinel-ai)** — Multi-tenant LLM gateway. Intelligent routing across Gemini, DeepSeek, and Claude based on prompt complexity. Semantic vector cache cuts response time from seconds to milliseconds and reduces inference cost by ~90%. Per-token billing engine with atomic PostgreSQL decrements.
 
-## 📊 GitHub Activity
+**[CONTROL](https://github.com/tijani-web/control)** — Android sleep enforcement app. System-level overlay that cannot be dismissed — 60-second breathing timer backed by AccessibilityService detection, a 3-tier watchdog stack, and a state machine that survives Android 14's background killing. Supabase auth + Stripe billing.
 
-![Basit's GitHub stats](https://github-readme-stats.vercel.app/api?username=tijani-web&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tijani-web&layout=compact&theme=radical)
+**[MeshGate](https://github.com/tijani-web/meshgate)** — Microservices platform. Spring Cloud Gateway, Netflix Eureka, RabbitMQ event-driven onboarding, idempotent consumers via the Outbox pattern. Six independent services, one docker compose up.
 
 ---
 
-## 🧠 How I Think
-> I value deep focus and clear problem-solving, but I collaborate openly when it leads to better systems and better outcomes.
+### Writing
+
+I write about problems I've actually hit in production.
+
+- [How one bad message can crash your entire Kafka pipeline](https://basittijani.com/writing/kafka-poison-pills-dlq)
+- [The problem with blocking threads in a reactive world](https://basittijani.com/writing/reactive-blocking-paradigm)
+- [How I cut AI inference costs by 90% with a semantic cache](https://basittijani.com/writing/semantic-cache-llm-costs)
+- [Why your microservice will process the same message twice](https://basittijani.com/writing/idempotency-distributed-systems)
+- [Why I stopped polling and started listening on Android](https://basittijani.com/writing/polling-vs-listening-android)
 
 ---
 
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basit-tijani-4362b3320/)
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tijani_web)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tijanidev/)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/tijaniWebDev)
-
----
-
-⭐️ Built by **Basit Tijani**
+[basittijani.com](https://basittijani.com) · [linkedin.com/in/basit-tijani](https://linkedin.com/in/basit-tijani) · tijanibwebdev@gmail.com

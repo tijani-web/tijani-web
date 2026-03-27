@@ -12,7 +12,7 @@ I build things that handle real load — event pipelines, LLM gateways, enforcem
 
 **[Sentinel-AI](https://github.com/tijani-web/sentinel-ai)** — Multi-tenant LLM gateway. Intelligent routing across Gemini, DeepSeek, and Claude based on prompt complexity. Semantic vector cache cuts response time from seconds to milliseconds and reduces inference cost by ~90%. Per-token billing engine with atomic PostgreSQL decrements.
 
-**[CONTROL](https://github.com/tijani-web/control)** — Android sleep enforcement app. System-level overlay that cannot be dismissed — 60-second breathing timer backed by AccessibilityService detection, a 3-tier watchdog stack, and a state machine that survives Android 14's background killing. Supabase auth + Stripe billing.
+**[CONTROL](https://github.com/tijani-web/control-android)** — Android sleep enforcement app. System-level overlay that cannot be dismissed — 60-second breathing timer backed by AccessibilityService detection, a 3-tier watchdog stack, and a state machine that survives Android 14's background killing. Supabase auth + Stripe billing.
 
 **[MeshGate](https://github.com/tijani-web/meshgate)** — Microservices platform. Spring Cloud Gateway, Netflix Eureka, RabbitMQ event-driven onboarding, idempotent consumers via the Outbox pattern. Six independent services, one docker compose up.
 

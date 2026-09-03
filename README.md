@@ -6,7 +6,7 @@ I build things that handle real load — distributed consensus engines, event pi
 
 ---
 
-### Work
+### MHMMMMMMM
 
 **[Phalanx](https://github.com/tijani-web/phalanx)** — High-availability distributed consensus engine in Go. 5-node global mesh with double-fault tolerance. Implements Raft (§5/§6/§8/§9.6), SWIM gossip discovery, and lease-based linearizable reads over BadgerDB. Deployed at the edge to handle cross-continental latency.
 

@@ -6,17 +6,6 @@ I build things that handle real load — distributed consensus engines, event pi
 
 ---
 
-### MHMMMMMMM
-
-**[Phalanx](https://github.com/tijani-web/phalanx)** — High-availability distributed consensus engine in Go. 5-node global mesh with double-fault tolerance. Implements Raft (§5/§6/§8/§9.6), SWIM gossip discovery, and lease-based linearizable reads over BadgerDB. Deployed at the edge to handle cross-continental latency.
-
-**[ARGUS](https://github.com/tijani-web/argus)** — Real-time behavioral analytics platform. Spring WebFlux + Kafka + TimescaleDB. 15,000 events/sec on a single VM. Reactive ingestion, Kafka Streams processing, Redis live counters, and DLQ poison pill protection.
-
-**[Sentinel-AI](https://github.com/tijani-web/sentinel-ai)** — Multi-tenant LLM gateway. Intelligent routing across Gemini, DeepSeek, and Claude based on prompt complexity. Semantic vector cache cuts response time from seconds to milliseconds and reduces inference cost by ~90%.
-
-**[CONTROL](https://github.com/tijani-web/control-android)** — Android sleep enforcement app. System-level overlay with a 60-second breathing timer — backed by AccessibilityService detection, a 3-tier watchdog stack, and a state machine that survives Android 14's background killing.
-
----
 
 ### Writing
 

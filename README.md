@@ -33,7 +33,7 @@ Backend and infrastructure engineer focused on distributed systems, event-driven
 ### Systems Architecture & Verification Report
 
 <a href="./docs/Basit-Tijani-Systems-Architecture-Rev2-DARK.pdf">
-  <img src="./docs/assets/architecture-cover.png" alt="Cover of the Systems Architecture and Verification Report" width="240" align="right">
+  <img src="./docs/architecture-cover.png" alt="Cover of the Systems Architecture and Verification Report" width="240" align="right">
 </a>
 
 **Distributed Systems & Infrastructure: Phalanx, ARGUS, Meridian**
